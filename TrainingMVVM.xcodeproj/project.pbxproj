@@ -38,6 +38,7 @@
 		DB7A064C20704749008F298B /* TrainingMVVMTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrainingMVVMTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB7A065020704749008F298B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DB7A065B2070478F008F298B /* HomeViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModelTests.swift; sourceTree = "<group>"; };
+		DB7A065D20711250008F298B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 		DB7A062620704032008F298B = {
 			isa = PBXGroup;
 			children = (
+				DB7A065D20711250008F298B /* README.md */,
 				DB7A063120704032008F298B /* TrainingMVVM */,
 				DB7A064D20704749008F298B /* TrainingMVVMTests */,
 				DB7A063020704032008F298B /* Products */,
